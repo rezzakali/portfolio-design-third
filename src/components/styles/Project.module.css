@@ -1,0 +1,7 @@
+.project_card:hover {
+  transform: scale(1.01);
+  cursor: pointer;
+  box-shadow: 9px 4px 48px -7px rgba(0, 0, 0, 0.81);
+  -webkit-box-shadow: 9px 4px 48px -7px rgba(0, 0, 0, 0.81);
+  -moz-box-shadow: 9px 4px 48px -7px rgba(0, 0, 0, 0.81);
+}

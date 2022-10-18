@@ -1,0 +1,13 @@
+.home h1 {
+  font-size: 70px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  margin-top: 80px;
+  font-family: operator mono Lig light;
+}
+.p {
+  margin: 30px 0;
+}
+.btn {
+  margin: 25px 0;
+}

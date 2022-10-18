@@ -1,0 +1,13 @@
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+.myPic {
+  object-fit: cover;
+  border-radius: 20px;
+  height: 400px;
+  margin: auto;
+  border: 1px solid gray;
+}
